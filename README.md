@@ -82,7 +82,7 @@ Holder of a Web Design certification from FreeCodeCamp and currently pursuing an
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Dance of the Internet: How You Get to Google with a Simple Click🤳🏾](https://www.linkedin.com/posts/ifeoluwa-adeniran-09183a1ba_internet-webbrowsing-technology-activity-7196128033055879168-vT4o?utm_source=share&utm_medium=member_desktop)
+- [The Hidden Dance of the Internet: How You Get to Google with a Simple Click🤳🏾](https://www.linkedin.com/pulse/hidden-dance-internet-how-you-get-google-simple-click-adeniran-oqqzf/?trackingId=ES0wnNB5Sfa2TSuxgQWN1w%3D%3D)
 <br>
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
