@@ -99,6 +99,7 @@ Holder of a Web Design certification from FreeCodeCamp and currently pursuing an
 - 🐦 [Twitter](https://twitter.com/Adexifeoluwa)
 - 📫 [Email](mailto:deniranifeoluwa@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/ifeoluwa-adeniran-09183a1ba)
+- 🟠 [Reddit](https://www.reddit.com/user/adexifeoluwa/)
 
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
